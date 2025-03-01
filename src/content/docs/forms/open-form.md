@@ -4,7 +4,7 @@ title: Opening a Form
 
 If you already created a form you can open the file by:
 
-- Clicking on the **OPEN** button on the upper menu.
+- Clicking on the **OPEN FORM** button on the home page.
 
 ![Button Open](../../../assets/images/button-open.png "Button Open")
 

@@ -4,7 +4,7 @@ title: Crear un Formulario
 
 1. Haz lo siguiente:
 
-    - En DnD Forms seleccione **NUEVO** en la barra de herramientas superior.
+    - En la pagina principal de DnD Forms seleccione **NUEVO ARCHIVO**.
 
     ![Crear Nuevo Formulario](../../../../assets/images/button-new-es.png "Crear Nuevo Formulario")
 

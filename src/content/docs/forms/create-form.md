@@ -4,7 +4,7 @@ title: Create a Form
 
 1. Do the following:
 
-    - In DnD Forms select **NEW** from the upper toolbar.
+    - In DnD Forms home page select **NEW FORM** button.
 
     ![Create a new form](../../../assets/images/button-new.png "Create a new form")
 

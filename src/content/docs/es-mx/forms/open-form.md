@@ -4,7 +4,7 @@ title: Abrir un Formulario
 
 Si ya creó un formulario, puede abrir el archivo de la siguiente manera:
 
-- Pulsando en el botón **ABRIR** del menú superior.
+- Pulsando en el botón **ABRIR ARCHIVO** en la pagina principal.
 
 ![Boton Abrir](../../../../assets/images/button-open-es.png "Boton Abrir")
 
